@@ -4,6 +4,13 @@
       "@testing-library/react": "^9.3.2",
       "@testing-library/jest-dom": "^4.2.4",
       "@testing-library/user-event": "^7.1.2"
-    }
+    },
+    "devDependencies": {
+      "prettier": "^1.19.1"
+    },
+    "peerDependencies": {
+      "reselect": "^4.0.0"
+    },
+    "name": "test name"
   }
 }
